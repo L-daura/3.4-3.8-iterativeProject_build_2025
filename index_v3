@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+	<html lang="en">
+		<head>
+			<title>Layout</title>
+			
+			<meta charset="utf-8">
+			<meta name="keyboards" content="html5,layout,CSS Grid System"/>
+			<meta name="Author" content="Lindaura"/>
+			<meta name="description" content="CSS Grid System Layout Tutorial"/>
+			<meta name="viewport" content="width=device-width, initial-scale=1">
+			
+			<!-- import the webpages stylesheet --> 
+<link rel="stylesheet" href="css/style.css">
+		</head>
+		
+		
+	<!-- main webpage content starts here -->
+<body>
+ <section>
+	<h1>Brazil</h1>
+	   <nav class="navbar">
+		   <ul>
+			   <li><a href="index.html">Home</a></li>
+		       <li><a href="form.php">Contact</a></li>
+		       <li><a href="page3.html">Language learning</a></li>
+		       <li><a href="history.html">History</a></li>
+			   <li><a href="food.html">Traditional food</a></li>
+			   <li><a href="tour.html">Tourist desination</a></li>
+			   <li><a href="law.html">Laws</a></li>
+		   </ul>
+	   </nav>
+	 <article>
+    <h1>Hola, Welcome to my brazilian travel blog</h1>
+		 <h2>About</h2>
+    <p> I have created this website to educate people on a place that I call home. I want to teach people about the beauties, dangers, learn the language, the history, people, traditions, etc.Brazil is a good place to go on vacation to, if you want to go to a hot, sunny place, tan, party, relax on the beach, go on hikes, etc. Brazil can be liked by a range of people with differnt hobbies. </p>
+ 
+      <img src ="images/Final-map.png"/>
+  </article>
+		
+ </section>
+		
+	<footer>
+		<div class="container">
+			<h4>Social media name: Brazil tour (across all platform)</h4>
+			<div class="bottom bar"> copyright Lindaura, all rights reserved, tawa college 2025</div>
+		</div>
+		
+	</footer>
+	
+	
+	
+<!-- <h1>Bem vindo Welcome to my Brazilian travel blog.</h1> -->
+	
+	
+	
+	
+</body>
+</html>
