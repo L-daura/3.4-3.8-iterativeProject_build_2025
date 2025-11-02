@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+	<html lang="en">
+		<head>
+			<title>Layout</title>
+			
+			<meta charset="utf-8">
+			<meta name="keyboards" content="html5,layout,CSS Grid System"/>
+			<meta name="Author" content="Lindaura"/>
+			<meta name="description" content="CSS Grid System Layout Tutorial"/>
+			<meta name="viewport" content="width=device-width, initial-scale=1">
+			
+			<!-- import the webpages stylesheet --> 
+<link rel="stylesheet" href="css/style.css">
+		</head>
+		
+		
+	<!-- main webpage content starts here -->
+<body>
+	<h1>Brazil</h1>
+	   <nav class="navbar">
+		   <ul>
+			   <li><a href="index.html">Home</a></li>
+		       <li><a href="page2.html">Contact</a></li>
+		       <li><a href="page3.html">Language learning</a></li>
+		       <li><a href="history.html">History</a></li>
+			   <li><a href="food.html">Traditional food</a></li>
+			   <li><a href="tour.html">Tourist desination</a></li>
+			   <li><a href="law.html">Laws</a></li>
+		   </ul>
+	   </nav>
+	
+	 <article>
+		
+    <h1>Hola, Welcome to my brazilian travel blog</h1>
+		 <h2>Learn portugese</h2>
+	
+    <ul>
+		<li>Hello - Hola (h is silent) </li>
+	   <li>Bye - Chao  </li>
+	   <li>Where is the ____ - onde está o _____  </li>
+	   <li>Good morning - Boa dia  </li>
+	   <li>Good afternoon - Boa tarde </li>
+	   <li>Good night - Boa noite </li>
+	   <li>Which way is the ___ - qual é o caminho </li>
+	   <li>Please - Por favor </li>
+	   <li>Thank you - Obrigado (Male) / Obrigada (female) </li>
+	   <li>You're welcome - De nada </li>
+	   <li>Excuse me / Pardon me - Com licenca </li>
+	   <li>Yes - Sim </li>
+	   <li>No - Nao  </li>
+	   <li>Ill take it - Vou levar  </li>
+	   <li>How much is this - Quanto custa isto </li>
+	</ul>
+		 
+	<img src ="images/Flag_of_Brazil.png"/>	
+	
+    <ul>
+	   <li>The check, please - A conta, por favor </li>
+	   <li>I don't speak Portuguese - Eu não falo português. </li>
+	   <li>I speak a little Portuguese - Falo um pouco de português. </li>
+	   <li>Do you speak English - Você fala inglês? </li>
+	   <li>Can you speak more slowly, please? - Pode falar mais devagar, por favor? </li>
+	   <li>I don't understand - Eu não entendo. </li>
+	   <li>I understand - Eu entendo </li>
+	   <li>Can you repeat that? - Pode repetir, por favor? </li>
+	   <li>Help - Ajuda </li>
+	   <li>The bathroom - A casa de banho </li>
+	   <li>What time is it? - Que horas são? </li>
+	   <li>Where does this bus go? - Para onde vai este autocarro? </li>
+	   <li>Straight ahead - Em frente </li>
+	   <li>The beach - A praia </li>
+	   <li>How do I get to…? - Como chego a…? </li>
+	   <li>I’m lost - Estou perdido (Male) Estou perdida (Female) </li>
+	   <li>Can you help me? - Pode ajudar-me? </li>
+	</ul>
+		 
+		 
+		 <button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
+		  </article> 
+
+	<script type="text/javascript" src="js/backtotop.js"></script>
+</body>
+</html>
